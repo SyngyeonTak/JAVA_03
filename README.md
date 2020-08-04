@@ -11,4 +11,4 @@ In Java, there are two types of casting: Widening Casting (automatically) - conv
   double -> float -> long -> int -> char -> short -> byte
 
 
-citation: Java Type Casting, w3schools.com, Copyright 1999-2020 by Refsnes Data, https://www.easybib.com/guides/citation-guides/mla-format/how-to-cite-a-website-mla/
+citation: Java Type Casting, w3schools.com, Copyright 1999-2020 by Refsnes Data, https://www.w3schools.com/java/java_type_casting.asp#:~:text=Previous%20Next%20%E2%9D%AF-,Java%20Type%20Casting,long%20%2D%3E%20float%20%2D%3E%20double
